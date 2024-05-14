@@ -1,0 +1,126 @@
+{
+  "products": [
+    {
+      "name": "wxcwxc",
+      "price": 0,
+      "checked": false,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "wxcwxc",
+      "price": 0,
+      "checked": true
+    },
+    {
+      "name": "test",
+      "price": 0,
+      "checked": false,
+      "id": 3
+    },
+    {
+      "name": "test",
+      "price": 0,
+      "checked": true,
+      "id": 4
+    },
+    {
+      "name": "test",
+      "price": 0,
+      "checked": true,
+      "id": 6
+    },
+    {
+      "name": "test",
+      "price": 0,
+      "checked": true,
+      "id": 7
+    },
+    {
+      "name": "test",
+      "price": 0,
+      "checked": "false",
+      "id": 8
+    },
+    {
+      "name": "test",
+      "price": 0,
+      "checked": "false",
+      "id": 11
+    },
+    {
+      "name": "test",
+      "price": 0,
+      "checked": false,
+      "id": 12
+    },
+    {
+      "name": "Andrianjafison",
+      "price": 0,
+      "checked": false,
+      "id": 13
+    },
+    {
+      "name": "",
+      "price": 0,
+      "checked": false,
+      "id": 14
+    },
+    {
+      "name": "test",
+      "price": 0,
+      "checked": false,
+      "id": 15
+    }
+  ],
+  "users": [
+    {
+      "nom": "Andrianjafison",
+      "prenom": "Heritiana",
+      "email": "heritiana.andrianjafison@jovena.com",
+      "id": 1,
+      "mdp": "1234",
+      "actif": true
+    },
+    {
+      "nom": "Rakoto",
+      "prenom": "rabe",
+      "email": "h.andrianjafison@gmail.com",
+      "id": 2,
+      "mdp": "1234",
+      "actif": true
+    },
+    {
+      "nom": "Andrianjafison",
+      "prenom": "Heritiana",
+      "email": "h.andrianjafison@gmail.com",
+      "mdp": "123",
+      "actif": "true",
+      "id": 3
+    },
+    {
+      "nom": "sdfd",
+      "prenom": "df",
+      "email": "dfsd",
+      "mdp": "dff",
+      "actif": "true",
+      "id": 5
+    },
+    {
+      "nom": "Andrianjafison",
+      "prenom": "Heritiana",
+      "email": "h.andrianjafison@gmail.com",
+      "mdp": "123",
+      "actif": "true",
+      "id": 6
+    },
+    {
+      "nom": "test",
+      "prenom": "test",
+      "email": "test@gmail.com",
+      "mdp": "1",
+      "actif": "true",
+      "id": 7
+    }
+  ]
+}
